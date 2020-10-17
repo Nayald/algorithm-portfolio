@@ -9,3 +9,4 @@
 |204|3591 / 13949||
 |207|2499 / 12923||
 |210|2825 / 11792|Very disapointed by my performance of this one|
+|bi-37|798 / 8250|My rank does not feel right or Q3 was excessively hard|

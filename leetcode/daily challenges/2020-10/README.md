@@ -13,3 +13,5 @@ My submitted solutions, not the best, just the one I write when I solve the prob
 |11||Unable to find a solution|
 |13|N*log(N)|Merge sort is compatible with linked list and respect the follow up constraint|
 |14|N|Follow the hint provided with the problem|
+|15|N|Respect the follow up constraint and one pass, hard time to find the primary loop condition and it is not even usefull because we can just count the number of element we have already changed|
+|16|log(N*M)|Given the conditions of the matrix, the search is the same as a flat array|
