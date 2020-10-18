@@ -10,3 +10,4 @@
 |207|2499 / 12923||
 |210|2825 / 11792|Very disapointed by my performance of this one|
 |bi-37|798 / 8250|My rank does not feel right or Q3 was excessively hard|
+|211|5994 / 11960|Start 18 min late, worst performance ever, even my Q1 is sick. I would have done better to go to sleep instead of pulling an all-nighter for this one|
