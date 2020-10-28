@@ -17,3 +17,8 @@ My submitted solutions, not the best, just the one I write when I solve the prob
 |16|log(N*M)|Given the conditions of the matrix, the search is the same as a flat array|
 |18||Unable to find a solution|
 |21||Not optimal, have to redo it with stack to avoid to iterate over zeros|
+|22|N|traverse tree for each depth level until one node has no child|
+|23||I don't know how to do it without TLE|
+|25||Good intuition, wrong way to do it, I'm not worthy to put it here|
+|26||It takes me some time to find this one but I like this solution, recursively check the overflow of the 2 cups above the one we want with memoization because some cups are checked more than one time|
+|27||Respect the follow up constraint|
