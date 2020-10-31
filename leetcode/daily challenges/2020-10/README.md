@@ -21,4 +21,7 @@ My submitted solutions, not the best, just the one I write when I solve the prob
 |23||I don't know how to do it without TLE|
 |25||Good intuition, wrong way to do it, I'm not worthy to put it here|
 |26||It takes me some time to find this one but I like this solution, recursively check the overflow of the 2 cups above the one we want with memoization because some cups are checked more than one time|
-|27||Respect the follow up constraint|
+|27|N|Respect the follow up constraint|
+|29|N|can be simplified by grouping zeros|
+|30||Unable to find a solution|
+|31||Not really inspired for this one, code is not good but it complied with the follow up constraint by swapping 2 nodes in the tree until it is valid, probably less efficient than just compare the inorder list with its sorted version to find the 2 missplaced nodes. I have to read other's solutions|
