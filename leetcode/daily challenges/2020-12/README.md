@@ -6,3 +6,6 @@ My submitted solutions, not the best, just the one I write when I solve the prob
 |Number/Day|Complexity|Notes|
 |-|-|-|
 |2|N|do not validate the follow up|
+|12||it seems we can do that in 1 pass|
+|13||TLE|
+|14||Palindrome part is okay but not much idea for the partitioning part|
