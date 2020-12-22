@@ -9,3 +9,7 @@ My submitted solutions, not the best, just the one I write when I solve the prob
 |12||it seems we can do that in 1 pass|
 |13||TLE|
 |14||Palindrome part is okay but not much idea for the partitioning part|
+|18||Unable to find a solution|
+|19||Miss|
+|20||Miss|
+|21||Miss|
