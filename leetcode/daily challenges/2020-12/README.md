@@ -13,3 +13,8 @@ My submitted solutions, not the best, just the one I write when I solve the prob
 |19||Miss|
 |20||Miss|
 |21||Miss|
+|25||Miss|
+|26||Miss|
+|27||Unable to find a solution|
+|28||Unable to find a solution|
+|31||Unable to find a solution|
