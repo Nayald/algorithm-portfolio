@@ -14,4 +14,5 @@
 |bi-39|611 / 6047|Q1 no so great, for Q3 I loose a lot of time but I don't know why it work like this and not when the 2 last if are inverted, code is a bit hugly because I try some stuff before without success I invert the 2 as a last hope and it worked ¯\\_(ツ)_/¯, not enough time for Q2, I identify it is a DP problem and was thinking about the condition|
 |bi-44|1682 / 8568|Unrated|
 |bi-45|2155 / 8426|Unrated|
-|bi-49|1073 / 9082|Q4 was quite hard, a bit less than 1 hour left to solve it, I think I was not too far from the answer. Else, I lose time because of careless mistakes like forgot modulo 10^9 + 7 and that binomial coefficient with k=2 is just n*(n-1)/2|
+|bi-49|823 / 9082|Q4 was quite hard, a bit less than 1 hour left to solve it, I think I was not too far from the answer. Else, I lose time because of careless mistakes like forgot modulo 10^9 + 7 and that binomial coefficient with k=2 is just n*(n-1)/2|
+|bi-50|358 / 10097|Q1 to Q3 was done in 12 minutes, I forfeit after 1h because Q4 was way too hard for me (reach TLE is trival)|
